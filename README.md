@@ -2,7 +2,9 @@
 
 # ShiftWise:
 
-An webapp aimed to generate shift schedules. This is a small part of the app using some AWS services.
+A webapp aimed to generate shift schedules. This is a small part of the app using some AWS services.
+
+- Demo: https://youtu.be/37F_XrBeBYI
 
 # Services:
 
