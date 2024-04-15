@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+.hide {
+  display: none !important;
+}
+
+#root {
+  min-height: 100vh !important;
+}
+
+#header {
+  min-height: 10vh;
+  max-height: 10vh;
+}
+
+.content {
+  min-height: 80vh;
+}

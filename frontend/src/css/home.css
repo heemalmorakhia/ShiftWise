@@ -1,0 +1,18 @@
+.background {
+  min-height: 100vh;
+}
+
+#left {
+  background-color: #004aad;
+}
+
+#left,
+#right {
+  height: 100vh;
+}
+
+.logo {
+  width: 11%;
+  margin-right: 10px;
+  border: white 1px solid;
+}

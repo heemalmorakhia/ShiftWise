@@ -1,0 +1,12 @@
+.dashboard-content a {
+  text-decoration: none;
+  color: black;
+}
+
+.list-group-item {
+  border-radius: 0 !important;
+}
+
+.createNewTeamSubmit {
+  background-color: #004aad !important;
+}
