@@ -6,12 +6,12 @@ An webapp aimed to generate shift schedules. This is a small part of the app usi
 
 # Services:
 
-EC2 instance - to host my frontend
-AWS Cognito - Sign In/SignUp
-API Gateway - backend apis connected to lambda so serverless
-Lambda - Save to db, auto confirm users, send messages
-RDS - Aurora MySQL - database for app
-SNS - to send emails.
+- EC2 instance - to host my frontend
+- AWS Cognito - Sign In/SignUp
+- API Gateway - backend apis connected to lambda so serverless
+- Lambda - Save to db, auto confirm users, send messages
+- RDS - Aurora MySQL - database for app
+- SNS - to send emails.
 
 # References:
 
